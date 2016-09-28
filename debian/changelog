@@ -1,5 +1,5 @@
-hciattach-rpi3 (5.38-1) unstable; urgency=low
+hciattach-rpi3 (5.38-1) xenial; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
- -- William Hughes <williamh@unknown>  Wed, 28 Sep 2016 13:52:41 +1300
+ -- Will Hughes <will@willhughes.name>  Wed, 28 Sep 2016 13:52:41 +1300

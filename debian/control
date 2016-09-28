@@ -1,0 +1,15 @@
+Source: hciattach-rpi3
+Section: unknown
+Priority: optional
+Maintainer: William Hughes <williamh@unknown>
+Build-Depends: debhelper (>= 8.0.0), autotools-dev, libglib2.0-dev, libdbus-1-dev, libudev-dev, libical-dev, libreadline-dev, udev
+Standards-Version: 3.9.4
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/hciattach-rpi3.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/hciattach-rpi3.git;a=summary
+
+Package: hciattach-rpi3
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
